@@ -9,6 +9,6 @@ Personal stuff in the internet:
 
 https://www.egallo.com.ar -> My mom and brother contable services business.
 
-https://www.sanclementetulugar.com -> Mom and Dad apartments for rent in the beach of Buenos Aires.
+https://sanclementetulugar.com -> Mom and Dad apartments for rent in the beach of Buenos Aires.
 
 https://myexpenses.egallo.com.ar -> My personal demo project -another simple to use expenses tracker-. 
