@@ -9,6 +9,6 @@ You can also checkout my github page at https://nicolasard.github.io/
 
 https://myexpenses.egallo.com.ar -> My personal demo project -another simple to use expenses tracker-. 
 
-https://www.egallo.com.ar -> My mom and brother contable services business.
+https://www.egallo.com.ar -> My mom and brother tax consulting services business.
 
-https://sanclementetulugar.com -> Mom and Dad apartments for rent in the beach of Buenos Aires.
+https://sanclementetulugar.com -> Apartments for rent in the beach of Buenos Aires.
